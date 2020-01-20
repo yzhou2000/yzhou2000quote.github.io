@@ -1,6 +1,6 @@
 ---
 layout: post
-    title: "Famaous Quotes from Wang Yang Ming"
+    title: "Famous Quotes from Wang Yang Ming"
 date: 2020-01-20
 ---
 1. Knowledge is the beginning of practice; doing is the completion of knowing.
