@@ -1,8 +1,9 @@
 ---
 layout: post
-    title: "Famous Quotes from Wang Yang Ming"
+title: "Famous Quotes from Wang YangMing"
 date: 2020-01-20
 ---
+
 1. Knowledge is the beginning of practice; doing is the completion of knowing.
 2. The sages do not consider that making no mistakes is a blessing. They believe, rather, that the great virture of man lies in his ability to correct his mistakes and continually make a new man of himself
 3. To know and not to act is not know
