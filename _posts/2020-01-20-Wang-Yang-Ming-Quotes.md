@@ -1,6 +1,6 @@
 ---
 layout: post
-    title: "知行合一: Famaous Quotes from Wang YangMing"
+    title: "Famaous Quotes from Wang Yang Ming"
 date: 2020-01-20
 ---
 
