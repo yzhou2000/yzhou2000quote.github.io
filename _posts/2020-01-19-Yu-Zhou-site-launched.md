@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yu Zhou, Random Walker, Launches Site"
+title: "Yu Zhou, Random Thinker, Launches Site"
 date: 2020-01-19
 ---
 
